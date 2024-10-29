@@ -1,0 +1,10 @@
+/* jQuery & GMap based stuff for getting the Author Location from a profile page */
+
+#al_map {
+	height: 350px;
+	width: 100%;
+}
+
+.al_info_window {
+	width: 250px;
+}
